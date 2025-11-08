@@ -14,7 +14,7 @@ Hi! I’m Adriana. I currently work as a Backend Developer, focusing on creating
 ---
 
 <p align="center">
-  Obrigada por visitar meu perfil! 🚀
+  Thanks for visiting my profile! 🚀
 </p>
 
 
