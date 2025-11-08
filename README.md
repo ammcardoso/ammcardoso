@@ -1,15 +1,15 @@
 <h1 align="center">👩🏽‍💻 Adriana Cardoso</h1>
 
 <p align="center">
-  Desenvolvedora Back-end Pleno <br>
-  Apaixonada por tecnologia 🚀
+  Backend Developer 🚀 <br>
+  
 </p>
 
 ---
 
-## ✨ Sobre mim
+## ✨ About Me
 
-Oi! Eu sou a Adriana, formada em Engenharia de Computação pela UFOP. Possuo experiência em Java, Spring Boot e Angular. Atualmente, sou Desenvolvedora Back-end Pleno, meu foco é criar soluções que sejam escaláveis, e que sigam as melhores práticas de desenvolvimento.
+Hi! I’m Adriana. I currently work as a Backend Developer, focusing on creating scalable solutions that follow best development practices. I have experience with Java, Spring Boot, and Angular.
 
 ---
 
